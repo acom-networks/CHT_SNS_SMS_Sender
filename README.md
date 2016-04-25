@@ -14,4 +14,6 @@ Save the file (ex: /tmp/sendsms123) and then invoke the program:
 
 This will send out the SMS message  
 
+The protocol exchange format is based on the CHT SNS specification document located here:  
+https://www.emome.net/files/fckeditor/Sns_protocol(1).pdf  
 
